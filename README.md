@@ -61,5 +61,6 @@ Este projeto foi desenvolvido por:
 
     Daniel Rocha Silva - Graduando em Biotecnologia UFRGS
     Felipe Roehe - Graduando em Engenharia Elétrica UFRGS
+    Willian Heinz Heydrich - Graduando em Engenharia Elétrica UFRGS
 
     
